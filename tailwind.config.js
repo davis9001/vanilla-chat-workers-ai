@@ -26,6 +26,21 @@ export default {
           apply: "#1b1c3b",
           helpertext: "#8a8a8a",
         },
+        dark: {
+          chat: {
+            background: "#000000",
+            bubble: "#070707",
+            text: "#ffffff",
+            input: "#000000",
+            shadow: "#ecf0f1",
+            placeholder: "#787878",
+            button: "#0b0b0b",
+            settings: "#000000",
+            border: "#eef0f1",
+            apply: "#1b1c3b",
+            helpertext: "#8a8a8a",
+          }
+        },
       },
     },
   },
